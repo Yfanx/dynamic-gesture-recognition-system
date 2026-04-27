@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local Python environments
+backend/.venv/
+.venv/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local runtime files
+.logs/
+backend/.env
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Nested vendor repository metadata
+third_party/mmaction2/.git/
+
+# Duplicate recovered checkpoint kept locally for convenience.
+assets/models/jester_tsm_r50_finetune_v1_best_acc_top1_epoch_8.pth

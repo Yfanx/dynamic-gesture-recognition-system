@@ -1,0 +1,11 @@
+{
+  "experiment_name": "jester_tsm_r50_finetune_v1_final",
+  "dataset_name": "jester_v1_full_rawframes",
+  "feature_variant": "rgb_rawframes",
+  "num_classes": 27,
+  "sequence_length": 8,
+  "seed": 42,
+  "top1": 0.9629404206397512,
+  "top5": 0.9979711909109353,
+  "mean_class_accuracy": 0.9588899830732441
+}
