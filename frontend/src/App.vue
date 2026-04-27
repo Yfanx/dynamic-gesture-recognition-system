@@ -326,8 +326,8 @@ onMounted(refreshModel);
             <div><span>视频模式</span><strong>RGB 时序识别</strong></div>
             <div><span>特征维度</span><strong>2048</strong></div>
             <div><span>序列长度</span><strong>8</strong></div>
-            <div><span>Top-1 准确率</span><strong>96.29%</strong></div>
-            <div><span>Top-5 准确率</span><strong>99.80%</strong></div>
+            <div><span>参考准确率</span><strong>96.29%</strong></div>
+            <div><span>宏平均 F1</span><strong>95.88%</strong></div>
           </div>
         </section>
       </aside>
